@@ -1,0 +1,25 @@
+body{
+    background:url(image/street.jpg) center center fixed;
+    background-size: cover;
+    color:#fff;
+    font-family:Arvo, serif;
+}
+
+.jumbotron{
+    background-color:transparent;
+    margin:0;
+    padding:10px;
+}
+.jumbotron h1{
+    letter-spacing:2.5px;
+}
+.jumbotron h1, .jumbotron p {
+    text-align:center;
+}
+
+/* google map*/
+#googleMap{
+    width:100%;
+    height:200%;
+    margin:10px auto;
+}
