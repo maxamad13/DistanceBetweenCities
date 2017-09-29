@@ -19,7 +19,21 @@ body{
 
 /* google map*/
 #googleMap{
-    width:100%;
-    height:200%;
+    width:400px;
+    height:200px;
     margin:10px auto;
+}
+
+/*outputbox*/
+.alert-info{
+    text-align:center;
+    font-size:2em;
+    margin:20px auto;
+}
+
+.alert-danger{
+    text-align:center;
+    font-size:2em;
+    color:red;
+
 }
